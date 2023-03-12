@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">image_recognizing</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Item Recognition</string>
+    <string name="recognition">Recognition</string>
+    <string name="description">Item</string>
+    <string name="comment">Click the button below to recognize the image above.</string>
+</resources>
